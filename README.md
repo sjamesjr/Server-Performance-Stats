@@ -28,6 +28,6 @@ Goal of this project is to write a script to analyze server performance stats.
 1. Clone or download the script to your server:
 
    ```bash
-   curl -O <script_url>/server-stats.sh
+   curl -O <https://raw.githubusercontent.com/sjamesjr/Server-Performance-Stats/refs/heads/main/server-stats.sh>/server-stats.sh
    
 https://roadmap.sh/projects/server-stats
