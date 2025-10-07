@@ -29,3 +29,5 @@ Goal of this project is to write a script to analyze server performance stats.
 
    ```bash
    curl -O <script_url>/server-stats.sh
+   
+https://roadmap.sh/projects/server-stats
